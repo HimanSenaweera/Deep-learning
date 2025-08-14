@@ -9,7 +9,7 @@ The complete pipeline includes:
 ---
 
 ## 📂 Dataset
-- **Source:** [Kaggle Potato Leaf Disease Dataset](https://www.kaggle.com/)
+- **Source:** [Kaggle Potato Leaf Disease Dataset](https://www.kaggle.com/datasets/arjuntejaswi/plant-village)
 - Contains potato leaf images labeled as:
   - Healthy
   - Early Blight
@@ -40,7 +40,7 @@ The complete pipeline includes:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-link>
+git clone <[your-repo-link](https://github.com/HimanSenaweera/Deep-learning.git)>
 cd <repo-folder>
 ```
 
