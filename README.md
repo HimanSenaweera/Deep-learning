@@ -28,7 +28,6 @@ The complete pipeline includes:
 
 ### 3️⃣ Model
 - CNN-based classifier implemented in TensorFlow/Keras.
-- Trained using augmented dataset for better generalization.
 
 ### 4️⃣ Saving the Model
 - Model is saved in `.keras` format after training:
