@@ -78,12 +78,6 @@ pip install streamlit
 streamlit run main.py
 ```
 
-The app will be available at:
-```
-http://localhost:8501
-```
----
-
 ### 4️⃣ Use the Application
 
 - Open your browser and go to the Streamlit URL.
