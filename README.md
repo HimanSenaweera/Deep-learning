@@ -36,6 +36,11 @@ The complete pipeline includes:
 
 ## deployment using **Docker** and **AWS ECS**.
 
+<p align="center">
+  <img src="Images.png" width="400">
+</p>
+
+
 ### 🚀 Live Demo
 You can try the deployed application here:  
 👉 [Potato Disease Classifier](http://43.204.141.23:8501/)
