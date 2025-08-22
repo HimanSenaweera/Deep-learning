@@ -37,8 +37,17 @@ The complete pipeline includes:
 ## deployment using **Docker** and **AWS ECS**.
 
 <p align="center">
-  <img src="Images.png" width="400">
+  <img src="Images.png" width="600">
 </p>
+
+<p align="center">
+  <img src="DockerHub.png" width="600">
+</p>
+
+<p align="center">
+  <img src="clucter.png" width="600">
+</p>
+
 
 
 ### 🚀 Live Demo
