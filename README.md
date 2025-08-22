@@ -1,4 +1,4 @@
-# 🥔 Potato Disease Classification Web App
+# 🥔 Potato Disease Classification Web App and deploying using **Docker** and **AWS ECS**
 
 ## 📌 Overview
 This project implements a **Potato Disease Classification** system using a **Convolutional Neural Network (CNN)** trained on a Kaggle dataset.  
@@ -34,53 +34,15 @@ The complete pipeline includes:
   ```python
   model.save("my_model.keras")
 
+# deployment of a Convolutional Neural Network (CNN) model**  using **Docker** and **AWS ECS**.
 
-## 🏃 How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone <[your-repo-link](https://github.com/HimanSenaweera/Deep-learning.git)>
-cd <repo-folder>
-```
+## 🚀 Live Demo
+You can try the deployed application here:  
+👉 [Potato Disease Classifier](http://43.204.141.23:8501/)
 
 ---
-
-### 2️⃣ Train the Model
-
-**Install Python dependencies:**
-```bash
-pip install tensorflow numpy pillow matplotlib jupyter
-```
-
-**Open the training notebook:**
-```bash
-jupyter notebook PotatoDisease.ipynb
-```
-
-**Run all cells** in the notebook.
-
-This will save the trained model as:
-```
-my_model.keras
-```
-
----
-
-### 3️⃣ Run the Streamlit App
-
-**Install Streamlit and dependencies:**
-```bash
-pip install streamlit 
-```
-
-**Run the app** (default port 8501):
-```bash
-streamlit run main.py
-```
-
-### 4️⃣ Use the Application
+## 4️⃣ Use the Application
 
 - Open your browser and go to the Streamlit URL.
 - Upload a potato leaf image (JPG/PNG).
 - The classification result will be displayed.
-
