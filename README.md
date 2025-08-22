@@ -34,14 +34,14 @@ The complete pipeline includes:
   ```python
   model.save("my_model.keras")
 
-# deployment of a Convolutional Neural Network (CNN) model**  using **Docker** and **AWS ECS**.
+## deployment using **Docker** and **AWS ECS**.
 
-## 🚀 Live Demo
+### 🚀 Live Demo
 You can try the deployed application here:  
 👉 [Potato Disease Classifier](http://43.204.141.23:8501/)
 
 ---
-## 4️⃣ Use the Application
+### 4️⃣ Use the Application
 
 - Open your browser and go to the Streamlit URL.
 - Upload a potato leaf image (JPG/PNG).
