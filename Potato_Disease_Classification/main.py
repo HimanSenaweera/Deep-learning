@@ -6,7 +6,7 @@ from io import BytesIO
 
 st.set_page_config(page_title="Potato Disease Classifier", page_icon="🥔", layout="centered")
 
-Model = tf.keras.models.load_model("my_model.keras", compile=False)
+Model = tf.keras.models.load_model("new2.keras", compile=False)
 class_names = ["Potato___Early_blight", "Potato___Late_blight", "Potato___healthy"]
 
 
