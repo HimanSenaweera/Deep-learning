@@ -1,4 +1,5 @@
-# 🥔 Potato Disease Classification Web App and deploying using **Docker** and **AWS ECS**
+# 🥔 Potato Disease Classification Web App 
+# Deployment: using **Docker** and **AWS ECS**
 
 ## 📌 Overview
 This project implements a **Potato Disease Classification** system using a **Convolutional Neural Network (CNN)** trained on a Kaggle dataset.  
