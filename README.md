@@ -1,4 +1,5 @@
-# 🥔 Potato Disease Classification Web App and deploying using **Docker** and **AWS ECS**
+# 🥔 Potato Disease Classification Web App 
+# Deployment: using **Docker** and **AWS ECS**
 
 ## 📌 Overview
 
@@ -43,6 +44,20 @@ The complete pipeline includes:
   ```
 
 ## deployment using **Docker** and **AWS ECS**.
+
+<p align="center">
+  <img src="Images.png" width="800">
+</p>
+
+<p align="center">
+  <img src="DockerHub.png" width="800">
+</p>
+
+<p align="center">
+  <img src="clucter.png" width="800">
+</p>
+
+
 
 ### 🚀 Live Demo
 
