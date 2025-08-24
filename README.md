@@ -69,7 +69,7 @@ You can try the deployed application here:
 ## 4️⃣ Use the Application
 
 - Open your browser and go to the Streamlit URL.
-- Upload a potato leaf image from [link](Potato_Disease_Classification/PlantVillage).
+- Upload a potato leaf image from this [folder](Potato_Disease_Classification/PlantVillage).
 - The classification result will be displayed.
 
 ## results.
