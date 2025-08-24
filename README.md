@@ -46,15 +46,15 @@ The complete pipeline includes:
 ## deployment using **Docker** and **AWS ECS**.
 
 <p align="center">
-  <img src="Images.png" width="800">
+  <img src="results/Images.png" width="800">
 </p>
 
 <p align="center">
-  <img src="DockerHub.png" width="800">
+  <img src="results/DockerHub.png" width="800">
 </p>
 
 <p align="center">
-  <img src="clucter.png" width="800">
+  <img src="results/clucter.png" width="800">
 </p>
 
 
