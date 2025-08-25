@@ -46,28 +46,42 @@ The complete pipeline includes:
 ## deployment using **Docker** and **AWS ECS**.
 
 <p align="center">
-  <img src="results/Images.png" width="800">
+  <img src="Potato_Disease_Classification/results/Images.png" width="800">
 </p>
 
 <p align="center">
-  <img src="results/DockerHub.png" width="800">
+  <img src="Potato_Disease_Classification/results/DockerHub.png" width="800">
 </p>
 
 <p align="center">
-  <img src="results/clucter.png" width="800">
+  <img src="Potato_Disease_Classification/results/clucter.png" width="800">
 </p>
 
 
 
-### 🚀 Live Demo
+## 🚀 Live Demo
 
 You can try the deployed application here:  
 👉 [Potato Disease Classifier](http://43.204.141.23:8501/)
 
 ---
 
-### 4️⃣ Use the Application
+## 4️⃣ Use the Application
 
 - Open your browser and go to the Streamlit URL.
-- Upload a potato leaf image (JPG/PNG).
+- Upload a potato leaf image from this [folder](Potato_Disease_Classification/PlantVillage).
 - The classification result will be displayed.
+
+## results.
+
+<p align="center">
+  <img src="Potato_Disease_Classification/results/result1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Potato_Disease_Classification/results/result2.png" width="800">
+</p>
+
+<p align="center">
+  <img src="Potato_Disease_Classification/results/result3.png" width="800">
+</p>
