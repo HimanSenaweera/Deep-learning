@@ -28,7 +28,7 @@ def read_file_as_image(data):
     return np.array(img)
 
 def predict(image_bytes):
-    global img_arr 
+    st.session_state['array']=img_arr 
     img_arr= read_file_as_image(image_bytes)
     img_arr = np.expand_dims(img_arr, axis=0)
     
@@ -41,9 +41,9 @@ def predict(image_bytes):
 
 uploaded_file = st.file_uploader("", type=["jpg", "jpeg", "png"])
 
-if uploaded_file is not None:
+if uploaded_file:
     prediction,confidence_ = predict(uploaded_file.read())
-    st.image(img_arr)
+    st.image(st.session_state['array'])
     st.success(f"Prediction: {prediction} ")
 
 else:
