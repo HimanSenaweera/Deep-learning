@@ -43,10 +43,6 @@ def predict(image_bytes):
     
     return predicted_class,confidence
 
-
-#https://unicode.org/emoji/charts/full-emoji-list.html
-
-
 uploaded_file = st.file_uploader("", type=["jpg", "jpeg", "png"])
 
 if uploaded_file is not None:
@@ -56,10 +52,3 @@ if uploaded_file is not None:
 
 else:
     st.info("Upload a image to get a prediction.")
-
-
-
-
-
-
-
