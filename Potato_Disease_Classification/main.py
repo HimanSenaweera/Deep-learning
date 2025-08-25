@@ -27,10 +27,6 @@ def read_file_as_image(data):
     img = Image.open(BytesIO(data))
     return np.array(img)
 
-def preprocess(img_arr):
-    x = np.expand_dims(img_arr, axis=0)  
-    return x
-
 def predict(image_bytes):
     global img_arr 
     img_arr= read_file_as_image(image_bytes)
